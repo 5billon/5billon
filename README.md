@@ -9,7 +9,7 @@
 ------------------------------------------------------------------------------------------------------------------------
 ### Connect with me
 <img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> https://medium.com/@kmrozek0859
-<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> kmrozek0859@gmail.com
+<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> kmrozek0859@gmail.com
 
 ### Technology Stack
 <img align="left" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
