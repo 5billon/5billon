@@ -9,7 +9,8 @@
 ------------------------------------------------------------------------------------------------------------------------
 ### Techology Stack
 <img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> https://medium.com/@kmrozek0859
-<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmedium.com%2F%40kmrozek0859&query=%3Cimg%20align%3D%22left%22%20alt%3D%22medium%22%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fbadge%2Fmedium-%252312100E.svg%3F%26style%3Dfor-the-badge%26logo%3Dmedium%26logoColor%3Dwhite%22%20%2F%3E
+
 
 
 <!--
