@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on any full stack project.
 - 📫 I'm open to learning about anything related to coding.
 - 🤔 I’m looking for help with learning algos and react.
-- 💬 I'm currently looking for work.
 
 ------------------------------------------------------------------------------------------------------------------------
 ### Connect with me
