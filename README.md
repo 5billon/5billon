@@ -17,6 +17,8 @@
 </a>
 <!--<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> kmrozek0859@gmail.com-->
 
+<!--<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> kmrozek0859@gmail.com-->
+
 ### Technology Stack
 <a>
   <img align="left" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
