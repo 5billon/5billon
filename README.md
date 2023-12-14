@@ -24,9 +24,6 @@
 <div>
   
 </div>
-<div>
-  
-</div>
 
 ### Technology Stack
 <a>
